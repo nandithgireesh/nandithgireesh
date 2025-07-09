@@ -13,12 +13,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -39,9 +37,6 @@
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/nandith-gireesh-91860b2a1)](https://www.linkedin.com/in/nandith-gireesh-91860b2a1))  
-- 📬 Email: nandithgireesh007@gmail.com  
-
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BVlfSvIoTQHa6aH8c%2Bh0zZA%3D%3D))  
+- 📬 Email: nandithgireesh007@gmail.com 
 ---
-
-**"Strive not to be a success, but rather to be of value." – Albert Einstein**
