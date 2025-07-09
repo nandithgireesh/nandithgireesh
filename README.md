@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Nandith Girish
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+B.Tech+Student;Passionate+about+Deep+Learning%2C+NLP%2C+Computer+Vision;Always+learning%2C+always+building)](https://github.com/DenverCoder1/readme-typing-svg)
+
 🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
 🧠 Passionate about solving real-world problems using AI  
 🚀 Exploring Deep Learning, NLP, and Computer Vision  
@@ -39,4 +41,19 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nandith-gireesh-91860b2a1/)
 - 📬 Email: nandithgireesh007@gmail.com 
+
 ---
+
+## 📈 GitHub Stats
+
+![Nandith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandithgirish&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandithgirish&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandithgirish&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
+
+[![Nandith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandithgirish&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+**"Strive not to be a success, but rather to be of value." – Albert Einstein**
