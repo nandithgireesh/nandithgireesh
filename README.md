@@ -39,9 +39,8 @@
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📬 Email: your.email@example.com  
-- 🗂️ Portfolio (optional): [yourportfolio.com](https://yourportfolio.com)
+- 🔗 [LinkedIn]([(https://www.linkedin.com/in/nandith-gireesh-91860b2a1))  
+- 📬 Email: nandithgireesh007@gmail.com  
 
 ---
 
