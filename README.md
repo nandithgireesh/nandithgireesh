@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Nandith Girish
+# 👋 Hello, I'm Nandith Gireesh
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+B.Tech+Student;Passionate+about+Deep+Learning%2C+NLP%2C+Computer+Vision;Always+learning%2C+always+building)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer+%7C+B.Tech+Student;Passionate+about+Machine+Learning%2C+NLP%2C+Computer+Vision;Always+learning%2C+always+building)](https://github.com/DenverCoder1/readme-typing-svg)
 
 🎓 Final-year B.Tech student in Artificial Intelligence & Machine Learning  
 🧠 Passionate about solving real-world problems using AI  
