@@ -39,7 +39,7 @@
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/nandith-gireesh-91860b2a1))  
+- 🔗 [LinkedIn]([(https://www.linkedin.com/in/nandith-gireesh-91860b2a1)](https://www.linkedin.com/in/nandith-gireesh-91860b2a1))  
 - 📬 Email: nandithgireesh007@gmail.com  
 
 ---
