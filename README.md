@@ -37,6 +37,6 @@
 
 ## 📫 Connect with Me
 
-- 🔗 - 🔗 [LinkedIn](https://www.linkedin.com/in/nandith-girish/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nandith-gireesh-91860b2a1/)
 - 📬 Email: nandithgireesh007@gmail.com 
 ---
