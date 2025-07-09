@@ -44,16 +44,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Nandith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandithgirish&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandithgirish&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandithgirish&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
-
-[![Nandith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandithgirish&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 **"Strive not to be a success, but rather to be of value." – Albert Einstein**
