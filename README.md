@@ -37,6 +37,6 @@
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BVlfSvIoTQHa6aH8c%2Bh0zZA%3D%3D))  
+- 🔗 - 🔗 [LinkedIn](https://www.linkedin.com/in/nandith-girish/)
 - 📬 Email: nandithgireesh007@gmail.com 
 ---
